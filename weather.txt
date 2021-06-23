@@ -1,0 +1,7 @@
+***********************************************************************************
+Weather Stats for -{} ||FARIDABAD
+***********************************************************************************
+Current temperature is: 38.14deg C
+Current weather desc :clear sky
+Current Humidity     :17%
+Current wind speed   :3.06kmph
